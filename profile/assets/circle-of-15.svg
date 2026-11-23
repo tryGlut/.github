@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="A Glut circle: up to fifteen people">
+<style>
+.p{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop 12s infinite}
+@keyframes pop{0%{opacity:0;transform:scale(0)}3%{opacity:1;transform:scale(1.4)}5%{transform:scale(1)}90%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(0)}}
+.l{stroke:#B4302F;stroke-width:2;opacity:0;animation:ln 12s infinite}
+@keyframes ln{0%{opacity:0}3%{opacity:.7}85%{opacity:.7}100%{opacity:0}}
+.c{opacity:0;animation:ct 12s infinite}
+@keyframes ct{0%,28%{opacity:0}34%,88%{opacity:1}100%{opacity:0}}
+.k{opacity:0;animation:ct2 12s infinite}
+@keyframes ct2{0%,2%{opacity:1}26%{opacity:1}30%,100%{opacity:0}}
+</style>
+<rect width="1200" height="520" fill="#0E0B0C"/>
+<circle cx="600" cy="260" r="170" fill="none" stroke="#2D2325" stroke-width="2" stroke-dasharray="4 10"/>
+<line x1="600.0" y1="90.0" x2="669.1" y2="104.7" class="l" style="animation-delay:3.60s"/>
+<line x1="600.0" y1="90.0" x2="726.3" y2="146.2" class="l" style="animation-delay:3.60s"/>
+<line x1="669.1" y1="104.7" x2="726.3" y2="146.2" class="l" style="animation-delay:3.65s"/>
+<line x1="669.1" y1="104.7" x2="761.7" y2="207.5" class="l" style="animation-delay:3.65s"/>
+<line x1="726.3" y1="146.2" x2="761.7" y2="207.5" class="l" style="animation-delay:3.70s"/>
+<line x1="726.3" y1="146.2" x2="769.1" y2="277.8" class="l" style="animation-delay:3.70s"/>
+<line x1="761.7" y1="207.5" x2="769.1" y2="277.8" class="l" style="animation-delay:3.75s"/>
+<line x1="761.7" y1="207.5" x2="747.2" y2="345.0" class="l" style="animation-delay:3.75s"/>
+<line x1="769.1" y1="277.8" x2="747.2" y2="345.0" class="l" style="animation-delay:3.80s"/>
+<line x1="769.1" y1="277.8" x2="699.9" y2="397.5" class="l" style="animation-delay:3.80s"/>
+<line x1="747.2" y1="345.0" x2="699.9" y2="397.5" class="l" style="animation-delay:3.85s"/>
+<line x1="747.2" y1="345.0" x2="635.3" y2="426.3" class="l" style="animation-delay:3.85s"/>
+<line x1="699.9" y1="397.5" x2="635.3" y2="426.3" class="l" style="animation-delay:3.90s"/>
+<line x1="699.9" y1="397.5" x2="564.7" y2="426.3" class="l" style="animation-delay:3.90s"/>
+<line x1="635.3" y1="426.3" x2="564.7" y2="426.3" class="l" style="animation-delay:3.95s"/>
+<line x1="635.3" y1="426.3" x2="500.1" y2="397.5" class="l" style="animation-delay:3.95s"/>
+<line x1="564.7" y1="426.3" x2="500.1" y2="397.5" class="l" style="animation-delay:4.00s"/>
+<line x1="564.7" y1="426.3" x2="452.8" y2="345.0" class="l" style="animation-delay:4.00s"/>
+<line x1="500.1" y1="397.5" x2="452.8" y2="345.0" class="l" style="animation-delay:4.05s"/>
+<line x1="500.1" y1="397.5" x2="430.9" y2="277.8" class="l" style="animation-delay:4.05s"/>
+<line x1="452.8" y1="345.0" x2="430.9" y2="277.8" class="l" style="animation-delay:4.10s"/>
+<line x1="452.8" y1="345.0" x2="438.3" y2="207.5" class="l" style="animation-delay:4.10s"/>
+<line x1="430.9" y1="277.8" x2="438.3" y2="207.5" class="l" style="animation-delay:4.15s"/>
+<line x1="430.9" y1="277.8" x2="473.7" y2="146.2" class="l" style="animation-delay:4.15s"/>
+<line x1="438.3" y1="207.5" x2="473.7" y2="146.2" class="l" style="animation-delay:4.20s"/>
+<line x1="438.3" y1="207.5" x2="530.9" y2="104.7" class="l" style="animation-delay:4.20s"/>
+<line x1="473.7" y1="146.2" x2="530.9" y2="104.7" class="l" style="animation-delay:4.25s"/>
+<line x1="473.7" y1="146.2" x2="600.0" y2="90.0" class="l" style="animation-delay:4.25s"/>
+<line x1="530.9" y1="104.7" x2="600.0" y2="90.0" class="l" style="animation-delay:4.30s"/>
+<line x1="530.9" y1="104.7" x2="669.1" y2="104.7" class="l" style="animation-delay:4.30s"/>
+<circle cx="600.0" cy="90.0" r="15" fill="#E5483F" class="p" style="animation-delay:0.00s"/>
+<circle cx="669.1" cy="104.7" r="15" fill="#E5483F" class="p" style="animation-delay:0.25s"/>
+<circle cx="726.3" cy="146.2" r="15" fill="#E5483F" class="p" style="animation-delay:0.50s"/>
+<circle cx="761.7" cy="207.5" r="15" fill="#E5483F" class="p" style="animation-delay:0.75s"/>
+<circle cx="769.1" cy="277.8" r="15" fill="#E5483F" class="p" style="animation-delay:1.00s"/>
+<circle cx="747.2" cy="345.0" r="15" fill="#E5483F" class="p" style="animation-delay:1.25s"/>
+<circle cx="699.9" cy="397.5" r="15" fill="#E5483F" class="p" style="animation-delay:1.50s"/>
+<circle cx="635.3" cy="426.3" r="15" fill="#E5483F" class="p" style="animation-delay:1.75s"/>
+<circle cx="564.7" cy="426.3" r="15" fill="#E5483F" class="p" style="animation-delay:2.00s"/>
+<circle cx="500.1" cy="397.5" r="15" fill="#E5483F" class="p" style="animation-delay:2.25s"/>
+<circle cx="452.8" cy="345.0" r="15" fill="#E5483F" class="p" style="animation-delay:2.50s"/>
+<circle cx="430.9" cy="277.8" r="15" fill="#E5483F" class="p" style="animation-delay:2.75s"/>
+<circle cx="438.3" cy="207.5" r="15" fill="#E5483F" class="p" style="animation-delay:3.00s"/>
+<circle cx="473.7" cy="146.2" r="15" fill="#E5483F" class="p" style="animation-delay:3.25s"/>
+<circle cx="530.9" cy="104.7" r="15" fill="#E5483F" class="p" style="animation-delay:3.50s"/>
+
+<g font-family="Manrope,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" text-anchor="middle">
+<g class="k"><text x="600" y="268" font-size="46" fill="#9C9092" letter-spacing="-1">one by one…</text></g>
+<g class="c"><text x="600" y="280" font-size="120" fill="#F6F1EF" letter-spacing="-5">15</text><text x="600" y="322" font-size="24" fill="#E5483F" letter-spacing="5">PEOPLE. MAX.</text></g>
+<text x="600" y="500" font-size="22" fill="#9C9092" letter-spacing="3">SMALL ENOUGH TO KNOW EACH OTHER'S NAMES</text></g>
+</svg>
